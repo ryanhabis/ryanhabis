@@ -7,6 +7,6 @@
   - 💡 [College](https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/computing-science-and-mathematics/bsc-in-computing.html)
 
 - ✨  Course I have done in the past.
-  - 1️⃣ [Achievements](https://qsearch.qqi.ie/WebPart/AwardDetails?awardCode=6M0691)
-  - 2️⃣ [Achievements](https://qsearch.qqi.ie/WebPart/AwardDetails?awardCode=5M0529)
+  - 1️⃣ [Software developer](https://qsearch.qqi.ie/WebPart/AwardDetails?awardCode=6M0691)
+  - 2️⃣ [Diploma in software development](https://qsearch.qqi.ie/WebPart/AwardDetails?awardCode=5M0529)
   
