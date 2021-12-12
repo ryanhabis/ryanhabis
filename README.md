@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning how to program in C# and java
 - 💞️ I’m looking to collaborate with other developers in order to improve my craft.
 - 📫 How to reach me (ryan.habiss@gmail.com)
+
+
+https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/computing-science-and-mathematics/bsc-in-computing.html
