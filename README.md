@@ -6,3 +6,6 @@
 - ✨ Below is the current course I am doing.
 
 [College] (https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/computing-science-and-mathematics/bsc-in-computing.html)
+
+
+  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
