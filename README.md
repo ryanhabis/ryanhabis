@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanhabis
 - 👀 I’m interested in software developement.
-- 🌱 I’m currently learning how to program in C# and java
+- 🌱 I’m currently learning how to program in C#, java, HTML, CSS, Javascript, PowerShell, Bash and PHP.
 - 💞️ I’m looking to collaborate with other developers in order to improve my craft.
 - 📫 How to reach me (ryan.habis@gmail.com)
 
