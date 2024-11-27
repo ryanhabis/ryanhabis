@@ -53,8 +53,16 @@ I’ve completed several certifications to further refine my technical expertise
 Explore projects that reflect my technical expertise and passion for software development. Highlights include:  
 
 - **Chef It Up**: A recipe finder and nutrition tracker, combining ASP.NET and Blazor for a seamless user experience.  
-- **Strategic IT Plan**: Real-world IT strategy development for business alignment and growth.  
-- **WordPress Projects**: Minimalist and responsive web designs showcasing best practices in usability.
+- **Virtual Machines Setup Windows & Linux**: Azure Resource Manager (ARM) templates and parameter files to deploy and configure secure Windows and Linux Virtual Machines (VMs) in Azure, complete with virtual network setups, public IPs, advanced security rules, and support for trusted launch and secure boot.  
+- **Cloud base**: This project showcases my journey in cloud technologies by building a foundational cloud system using PaaS and IaaS components, including AWS CloudFormation, Lambda functions, and secure access controls, supported by scripts for deployment, monitoring, and teardown to enhance my skills in designing efficient cloud-based solutions.
+
+
+
+
+
+
+
+
 
 ---
 
